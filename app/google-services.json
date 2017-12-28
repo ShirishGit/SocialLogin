@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023873158030",
+    "project_id": "pluslogin-36ba4"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023873158030:android:ef2091ac92da0d3b",
+        "android_client_info": {
+          "package_name": "in.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023873158030-2dcqjmisgosfkmbevvpmmrlden77akhl.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1023873158030-onddt5l6f2cm2d1emaoque55gs090l7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sociallogin",
+            "certificate_hash": "dc468df1d7dc43214943559a66527138f1bf47e0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8I6RAsHMXjrbBLcHdOZX83RWKDElyQs4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
